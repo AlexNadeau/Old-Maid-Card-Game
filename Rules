@@ -1,0 +1,5 @@
+The player gets half the card and the bot gets the other half
+Each player removes the paires they have
+The first player asks to take a card from the other player
+The player gets the card and checks if there are any new pairs form. if so, remove them
+The game goes on until someone has no cards left
